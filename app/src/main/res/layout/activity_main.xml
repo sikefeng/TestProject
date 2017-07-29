@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick1"
+        android:text="CoordinatorLayout与AppBarLayout111"
+        android:textAllCaps="false" />
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick2"
+        android:text="CoordinatorLayout与AppBarLayout222"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick4"
+        android:text="CoordinatorLayoutActivity3"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick3"
+        android:text="CollapsingToolbarActivity"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick5"
+        android:text="PickerImageActivity"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick6"
+        android:text="RecyclerView And SwipeRefresh"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick7"
+        android:text="SwipeRefresh And ListView"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick8"
+        android:text="Notification"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick9"
+        android:text="Notification"
+        android:textAllCaps="false" />
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:onClick="onClick10"
+        android:text="PickImage"
+        android:textAllCaps="false" />
+</LinearLayout>
